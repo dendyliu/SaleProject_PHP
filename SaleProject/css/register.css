@@ -1,0 +1,129 @@
+#judul {
+	font-family: "Calibri";
+	font-size: 35px;
+	color : #980000;
+	font-weight : bold;
+}
+
+#project {
+	color: #4a86e8;
+}
+
+div {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-right: 70px;
+	margin-left: 70px;
+}
+
+#PleaseRegister {
+	font-weight: bold;
+	font-family: "Calibri";
+	font-size: 25px;
+}
+
+label {
+	font-family: "Calibri";
+	font-size: 15px;
+}
+
+#fname {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc
+}
+
+#uname {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc
+}
+
+#email {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc
+}
+
+#pass {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc
+}
+
+#confirm {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc
+}
+
+textarea {
+	width: 100%;
+	height: 100px;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	resize : none;
+}
+
+#postal {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc
+}
+
+#phone {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc
+}
+
+#register {
+	width: 8%;
+	background-color: #4a86e8;
+	color: white;
+	border: none;
+	padding: 5px;
+	float: right; 
+}
+
+#already {
+	font-weight: bold;
+	font-family: "Calibri";
+	font-size: 20px;
+}
+
+#here {
+	color: #4a86e8
+}
+
+hr {
+	width : 99%;
+}
+
+a:link {
+	color:#4a86e8; 
+	background-color:transparent; 
+	text-decoration:none;
+}
+
+a:visited {
+	color:#4a86e8; 
+	background-color:transparent; 
+	text-decoration:none;
+}
